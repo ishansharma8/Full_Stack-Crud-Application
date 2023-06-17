@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Emp_crud_be.props" />
+</Project>
